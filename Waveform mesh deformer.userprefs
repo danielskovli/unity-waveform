@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\createLinearWaveform.cs">
+    <Files>
+      <File FileName="Assets\Scripts\audioControls.cs" Line="18" Column="18" />
+      <File FileName="Assets\Scripts\createLinearWaveform.cs" Line="51" Column="16" />
+      <File FileName="Assets\Scripts\rotateScene.cs" Line="19" Column="3" />
+      <File FileName="Assets\Scripts\createSphericalWaveform.cs" Line="31" Column="115" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
